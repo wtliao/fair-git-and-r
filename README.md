@@ -1,2 +1,2 @@
-"How to change gitub Name like this hahahah"
+"How to change gitub Name"
 $ git --global config user.name "your Name"
